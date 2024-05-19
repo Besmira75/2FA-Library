@@ -1,0 +1,12 @@
+{
+    "name": "blerta/2fa-library",
+    "description": "A simple 2FA library for email-based two-factor authentication",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Blerta\\2faLibrary\\": "src/"
+        }
+    },
+    "require": {}
+}
